@@ -1,0 +1,14 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.card{
+    display: flex;
+    width: 1800px;
+    flex-wrap: wrap;
+    margin: 2% 15% 0 15%;
+
+}
+button{
+    margin-right: 27%;
+}
